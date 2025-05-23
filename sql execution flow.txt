@@ -45,9 +45,11 @@ The INNER JOIN between employee and department is applied, joining employees wit
 WHERE Clause Filtering:
 
 After the join, the WHERE clause filters out employees whose salary is not greater than the average salary returned by the subquery.
-Final Result:
+Final Result: Changed here
 
 The result includes the name, salary, and department name of employees who have a salary greater than the average salary.
+
+Added new line here
 
 -----------------------------------------------------------------------------------------------------
 
